@@ -10,3 +10,4 @@
 **Decentralized**: Operates on the Ethereum blockchain, making it censorship-resistant.
 **Frontend**: A simple React-based UI that interacts with the blockchain via Web3.js.
 
+
