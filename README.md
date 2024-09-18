@@ -125,7 +125,7 @@ This project is licensed under the MIT License.
 
 ### Ethical Considerations
 
-This platform when fully functional promotes freedom of expression and resists censorship. In today’s digital landscape, centralized platforms have the power to control what information gets seen and shared. By using blockchain technology, TruthPlatformPrototype ensures that no single entity can silence or manipulate posts. The platform is designed to be transparent, immutable, and open, ensuring that everyone has equal access to share their voice without fear of repression. This aligns with the values of democratic participation, accountability, and truth.
+This platform when fully functional promotes freedom of expression and resists censorship. In today’s digital landscape, centralized platforms have the power to control what information gets seen and shared. By using blockchain technology, "TruthPlatform" ensures that no single entity can silence or manipulate posts. The platform is designed to be transparent, immutable, and open, ensuring that everyone has equal access to share their voice without fear of repression. This aligns with the values of democratic participation, accountability, and truth. 
 
 
 
