@@ -71,7 +71,7 @@ Navigate to the project’s root directory and install all necessary dependencie
 
 The frontend directory was originally added to the project as a submodule, which caused issues when trying to push it to GitHub.
 
-o resolve this, the frontend2 directory was created. It contains the same files as frontend, minus the node_modules folder, which is often too large and unnecessary for version control.
+To resolve this, the frontend2 directory was created. It contains the same files as frontend, minus the node_modules folder, which is often too large and unnecessary for version control.
 
 You can use frontend2 exactly like the original frontend by following the same commands when running the frontend part of the project.
 
