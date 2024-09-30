@@ -19,7 +19,7 @@ The project is divided into several key components:
 
 **Contracts**: Contains Solidity smart contracts (TruthPlatform.sol) that govern the platform’s behavior.
 
-**Frontend**: A React application that serves as the user interface, interacting with the smart contracts via Web3.js.
+**Frontend2**: A React application that serves as the user interface, interacting with the smart contracts via Web3.js. This directory is a copy of the original frontend folder but excludes the node_modules folder to ensure it is manageable for version control.
 
 **Migrations**: Includes scripts for deploying the smart contracts to a local or public Ethereum network using Truffle.
 
@@ -61,9 +61,20 @@ Clone this repository to your local machine:
 
 Navigate to the project’s root directory and install all necessary dependencies:
 
-**cd frontend**
+**cd frontend2**
 
 **npm install**
+
+**----------------------**
+
+**Why Frontend2**
+
+The frontend directory was originally added to the project as a submodule, which caused issues when trying to push it to GitHub.
+
+o resolve this, the frontend2 directory was created. It contains the same files as frontend, minus the node_modules folder, which is often too large and unnecessary for version control.
+
+You can use frontend2 exactly like the original frontend by following the same commands when running the frontend part of the project.
+
 
 ### Step 3: Run Ganache (Local Blockchain)
 
