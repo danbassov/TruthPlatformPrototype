@@ -53,7 +53,7 @@ To run this project, you will need:
 
 Clone this repository to your local machine:
 
-**git clone https://github.com/2000dann/TruthPlatformPrototype.git**
+**git clone https://github.com/danbassov/TruthPlatformPrototype.git**
 
 **cd TruthPlatformPrototype**
 
